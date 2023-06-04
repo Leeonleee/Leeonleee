@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 - I'm Leon, a computer science student
+I'm currently a second year student at the University of Sydney, doing a Bachelor of Advanced Computing in Computer Science and Software Development
 
 <!--
 **Leeonleee/Leeonleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
