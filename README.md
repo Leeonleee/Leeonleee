@@ -7,8 +7,6 @@ I'm currently a second year student at the University of Sydney, doing a Bachelo
   <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
   <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-  <img style="width:50px;height:50pxpx;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
 </p>
 <!--
 **Leeonleee/Leeonleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
