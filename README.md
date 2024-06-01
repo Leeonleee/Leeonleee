@@ -1,5 +1,5 @@
 # Hi there 👋 - I'm Leon, a computer science student
-I'm currently a second year student at the University of Sydney, doing a Bachelor of Advanced Computing in Computer Science and Software Development
+I'm currently a third year student at the University of Sydney, doing a Bachelor of Advanced Computing in Computer Science and Software Development
 
 # My Skills
 <p align="left">
