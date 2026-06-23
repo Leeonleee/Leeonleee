@@ -1,1 +1,1 @@
-SWE Intern @ Oracle
+SWE
