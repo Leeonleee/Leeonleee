@@ -1,6 +1,6 @@
 ## Leeonleee
 
-SWE
+SWE, prev @ Oracle
 
 ### Gear
 Some details about the gear I use
